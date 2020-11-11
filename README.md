@@ -1,6 +1,8 @@
 # Noc-Naukowc-w-2020
 
-Jest to zbiór kodów  nocy naukowców 2020. Pełna paczka jest do pobrania z mojego One Drive: https://uepoznanpl-my.sharepoint.com/:u:/g/personal/piotr_kaluzny_ue_poznan_pl/ET-2Q-4w189Pu4eKsIRpX_0BWSpVu6M8CvRtyF5WNZIghw?e=OeoVc6.
+Jest to zbiór kodów  nocy naukowców 2020. 
+
+Pełna paczka jest do pobrania z mojego One Drive: https://uepoznanpl-my.sharepoint.com/:u:/g/personal/piotr_kaluzny_ue_poznan_pl/ET-2Q-4w189Pu4eKsIRpX_0BWSpVu6M8CvRtyF5WNZIghw?e=OeoVc6 (trzeba kliknąć na "pobierz cały plik ZIP" i wypakować).
 
 Jak uruchomić?
 0. Pobrać pełen pakiet kodów z mojego One Drive (tylko tam miałem tyle miejsca ;): 
